@@ -4,3 +4,5 @@ config.codekit
 *.sublime-project
 *.sublime-workspace
 .sass-cache
+compile.scss
+compile.css
